@@ -7,5 +7,9 @@
 GoodPro712#1733         (~8h)
 @goodpro712:matrix.org  (~15h)
 ```
+
 ## Some random stats
-<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&show_icons=true&theme=dracula" alt="GoodPro712"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true" alt="GoodPro712"/>
+
+## My top languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true">
