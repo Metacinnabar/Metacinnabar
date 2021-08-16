@@ -9,7 +9,7 @@ GoodPro712#1733         (~8h)
 ```
 
 ## Some random stats
-<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true" alt="GoodPro712"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true?count_private=true" alt="GoodPro712"/>
 
 ## My top languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true?count_private=true&layout=compact&langs_count=10">
