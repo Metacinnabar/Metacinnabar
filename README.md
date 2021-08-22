@@ -9,7 +9,7 @@ GoodPro712#1733         (~8h)
 ```
 
 ## Some random stats
-<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true?count_private=true" alt="GoodPro712"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&custom_title=Random+GitHub+stats&show_icons=true&theme=dracula&hide_border=true?count_private=true" alt="GoodPro712"/>
 
-## My top languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodPro712&show_icons=true&theme=dracula&hide_border=true?count_private=true&layout=compact&langs_count=10">
+## Wakatime stats
+![goodpro712's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GoodPro712&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=dracula&hide_border=true)
