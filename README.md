@@ -11,5 +11,5 @@ GoodPro712#1733         (~8h)
 ## Some random stats
 <img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&custom_title=Random+GitHub+stats&show_icons=true&theme=dracula&hide_border=true?count_private=true" alt="GoodPro712"/>
 
-## Wakatime stats
+## Wakatime stats (cached)
 ![goodpro712's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GoodPro712&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=dracula&hide_border=true)
