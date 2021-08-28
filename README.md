@@ -8,7 +8,7 @@ GoodPro712#1733         (~8h)
 @goodpro712:matrix.org  (~15h)
 ```
 
-## Some random stats
+## Some random stats (cached)
 <img src="https://github-readme-stats.vercel.app/api?username=GoodPro712&custom_title=Random+GitHub+stats&show_icons=true&theme=dracula&hide_border=true?count_private=true" alt="GoodPro712"/>
 
 ## Wakatime stats (cached)
