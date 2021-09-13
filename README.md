@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
-<h3 align="center">Self-taught software/console fullstack programmer/modder studying at highschool</h3>
+<h3 align="center">Self-taught software/console full-stack programmer/game modder studying at high-school</h3>
 <br>
 
 ## You can contact me here
