@@ -15,4 +15,4 @@ GoodPro712#1733         (~16h)
 ![goodpro712's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GoodPro712&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=gruvbox&hide_border=true&text_color=ffffdf&langs_count=6)
 
 ## Streak stats
-![GitHub Streak](https://streakstats.goodpro.software?user=GoodPro712&theme=gruvbox&dates=FFFFDF&)
+[![GitHub Streak](https://streakstats.goodpro.software?user=GoodPro712&theme=gruvbox&hide_border=true&dates=FFFFDF)](https://git.io/streak-stats)
