@@ -2,18 +2,22 @@
 <h3 align="center">Self-taught software/console full-stack programmer/game modder studying at high-school</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=metacinnabar&color=yellow&label=profile%20views">
+  <img src="https://komarev.com/ghpvc/?username=metacinnabar&color=fabd2f&label=profile%20views">
 
   <a href="https://paste.metacinna.bar">
-    <img src="https://img.shields.io/badge/pastebin-p.metacinna.bar-yellow">
+    <img src="https://img.shields.io/badge/pastebin-p.metacinna.bar-155261">
   </a>
 
   <a href="https://heartbeat.metacinna.bar">
-    <img src="https://img.shields.io/badge/heartbeat-hb.metacinna.bar-yellow">
+    <img src="https://img.shields.io/badge/dynamic/json?label=heartbeat&query=total_beats&suffix= total beats&color=424242&url=https://hb.metacinna.bar/api/stats">
   </a>
   
   <a href="http://discord.metacinna.bar">
-    <img src="https://img.shields.io/discord/635695428834164746?color=yellow&label=discord">
+    <img src="https://img.shields.io/discord/635695428834164746?label=discord&color=5865F2&logo=discord">
+  </a>
+
+  <a href="https://patreon.metacinna.bar">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmetacinnabar%26type%3Dpatrons%26suffix%3Dsupporters&style=flat">
   </a>
 </p>
 
