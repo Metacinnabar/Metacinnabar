@@ -17,7 +17,7 @@
   </a>
   
   <a href="http://discord.metacinna.bar">
-    <img src="https://img.shields.io/discord/635695428834164746?label=discord&color=5865F2&logo=discord">
+    <img src="https://img.shields.io/discord/635695428834164746?label=discord&color=5865F2&logo=discord&logoColor=616eff">
   </a>
 
   <a href="https://patreon.metacinna.bar">
