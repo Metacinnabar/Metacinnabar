@@ -35,5 +35,3 @@ Metacinnabar#1733         (~16h)
 
 ## Streak stats
 [![GitHub Streak](https://streakstats.metacinna.bar?user=Metacinnabar&theme=gruvbox&hide_border=true&dates=FFFFDF)](https://git.io/streak-stats)
-
-You may have previously known me as `GoodPro712`. I have recently changed my username to `Metacinnabar`. The username `GoodPro712` will be phased out in the next month, and by November, should be gone completely.
