@@ -24,7 +24,7 @@
 ## You can contact me here
 ```
 Metacinnabar#1733         (~16h)
-@metacinnabar:matrix.org  (~16h) [may be unresponsive]
+@metacinnabar:matrix.org  (~16h)
 ```
 
 ## Some random stats
