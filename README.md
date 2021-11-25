@@ -23,8 +23,9 @@
 
 ## You can contact me here
 ```
-Metacinnabar#1733         (~16h)
-@metacinnabar:matrix.org  (~16h)
+Contact me about anything, whether it be support, suggestions, or just to chat.
+Metacinnabar#1733         (~08h) 3-11pm AEDT weekdays
+@metacinnabar:matrix.org  (~16h) 7-11pm AEDT weekdays
 ```
 
 ## Some random stats
