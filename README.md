@@ -27,11 +27,11 @@ Metacinnabar#1733         (~16h) 8am-12am AEDT weekdays
 @metacinnabar:matrix.org  (~16h) 8am-12am AEDT weekdays
 ```
 
-## Some random stats
+## Here's some random GitHub stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=Metacinnabar&custom_title=Random+GitHub+stats&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&text_color=ffffdf)
 
-## Wakatime stats
+## And my recent languages used
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Metacinnabar&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=gruvbox&hide_border=true&text_color=ffffdf&langs_count=6)
 
-## Streak stats
-[![GitHub Streak](https://streakstats.metacinna.bar?user=Metacinnabar&theme=gruvbox&hide_border=true&dates=FFFFDF)](https://git.io/streak-stats)
+## Also check out my contribution streak
+[![GitHub Streak](https://ghstreak.metacinna.bar?user=Metacinnabar&theme=gruvbox&hide_border=true&dates=FFFFDF)](https://ghstreak.metacinna.bar)
