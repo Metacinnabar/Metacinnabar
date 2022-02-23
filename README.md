@@ -23,7 +23,6 @@
 
 ## You can contact me here
 ```
-Contact me about anything, whether it be support, suggestions, or just to chat.
 Metacinnabar#1733         (~16h) 8am-12am AEDT weekdays
 @metacinnabar:matrix.org  (~16h) 8am-12am AEDT weekdays
 ```
