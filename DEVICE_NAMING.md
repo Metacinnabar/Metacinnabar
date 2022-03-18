@@ -1,8 +1,11 @@
 # Device Naming Scheme
-**[action]-[device][operating-system]**
+**[action]-[device id][operating-system id]**
 ```
-headpat-el        school laptop running endeavouros
-headpat-wl        school laptop running windows
-hugging-us        virtual server running ubuntu
-handholding-cm    mobile phone running coloros
+headpat-el        School laptop running EndeavourOS
+headpat-wl        School laptop running Windows 10
+hugging-us        Virtual server running Ubuntu 20.04 LTS
+handholding-cm    Mobile phone running ColorOS
 ```
+
+## headpat-el
+`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJOZkro7T5h9eIrIyBUQL4TC5Z1XPeF5g5ohm0cQ/BxX charlie@headpat-el`
