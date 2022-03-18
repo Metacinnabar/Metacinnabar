@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## You can contact me here
+## 💬 You can contact me here
 ```
 Metacinnabar#1733
   (~8h)  3pm-11pm AEDT weekdays
@@ -31,13 +31,13 @@ Metacinnabar#1733
   (~16h) 7am-11pm AEDT weekdays, weekends
 ```
 
-## Here's some random GitHub stats...
+## 📈 Here's some random GitHub stats...
 ![github stats](https://github-readme-stats.vercel.app/api?username=Metacinnabar&custom_title=Random+GitHub+stats&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&text_color=ffffdf)
 
-## ...and what I've been working on for the last week!
+## 📅 ...and what I've been working on for the last week!
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Metacinnabar&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=gruvbox&hide_border=true&text_color=ffffdf&langs_count=6)
 
-## You can also find more information...
+## ℹ️ You can also find more information...
 ### [...in my Discord server!](https://discord.metacinna.bar)
 - Channels to discuss my creations
 ### [...in my personal GitHub repository!](https://github.com/Metacinnabar/Metacinnabar/)
