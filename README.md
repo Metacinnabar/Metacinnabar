@@ -1,5 +1,5 @@
-<h1 align="center">Hello there! 👋</h1>
-<h3 align="center">Self-taught software/console full-stack programmer/game modder, studying at high-school</h3>
+<h1 align="center">Hey there! 👋</h1>
+<h3 align="center">Self-taught full-stack (mainly backend) programmer, studying at high-school.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metacinnabar&color=fabd2f&label=profile%20views&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMTIgMTIgNDAgNDAiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiwxMy40Yy0xMC41LDAtMTksOC41LTE5LDE5YzAsOC40LDUuNSwxNS41LDEzLDE4YzEsMC4yLDEuMy0wLjQsMS4zLTAuOWMwLTAuNSwwLTEuNywwLTMuMiBjLTUuMywxLjEtNi40LTIuNi02LjQtMi42QzIwLDQxLjYsMTguOCw0MSwxOC44LDQxYy0xLjctMS4yLDAuMS0xLjEsMC4xLTEuMWMxLjksMC4xLDIuOSwyLDIuOSwyYzEuNywyLjksNC41LDIuMSw1LjUsMS42IGMwLjItMS4yLDAuNy0yLjEsMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEsMC43LTMuNywyLTUuMWMtMC4yLTAuNS0wLjgtMi40LDAuMi01YzAsMCwxLjYtMC41LDUuMiwyIGMxLjUtMC40LDMuMS0wLjcsNC44LTAuN2MxLjYsMCwzLjMsMC4yLDQuNywwLjdjMy42LTIuNCw1LjItMiw1LjItMmMxLDIuNiwwLjQsNC42LDAuMiw1YzEuMiwxLjMsMiwzLDIsNS4xYzAsNy4zLTQuNSw4LjktOC43LDkuNCBjMC43LDAuNiwxLjMsMS43LDEuMywzLjVjMCwyLjYsMCw0LjYsMCw1LjJjMCwwLjUsMC40LDEuMSwxLjMsMC45YzcuNS0yLjYsMTMtOS43LDEzLTE4LjFDNTEsMjEuOSw0Mi41LDEzLjQsMzIsMTMuNHoiLz48L3N2Zz4%3D">
@@ -23,15 +23,23 @@
 
 ## You can contact me here
 ```
-Metacinnabar#1733         (~16h) 8am-12am AEDT weekdays
-@metacinnabar:matrix.org  (~16h) 8am-12am AEDT weekdays
+Metacinnabar#1733
+  (~8h)  3pm-11pm AEDT weekdays
+  (~16h) 7am-11pm AEDT weekends
+
+@metacinnabar:matrix.org
+  (~16h) 7am-11pm AEDT weekdays, weekends
 ```
 
-## Here's some random GitHub stats
+## Here's some random GitHub stats...
 ![github stats](https://github-readme-stats.vercel.app/api?username=Metacinnabar&custom_title=Random+GitHub+stats&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&text_color=ffffdf)
 
-## And my recent languages used
+## ...and what I've been working on for the last week!
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Metacinnabar&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=gruvbox&hide_border=true&text_color=ffffdf&langs_count=6)
 
-## Also check out my contribution streak
-[![GitHub Streak](https://ghstreak.metacinna.bar?user=Metacinnabar&theme=gruvbox&hide_border=true&dates=FFFFDF)](https://ghstreak.metacinna.bar)
+## You can also find more information...
+### [...in my Discord server!](https://discord.metacinna.bar)
+- Discussion channels for my creations
+### [...in my personal GitHub repository!](https://github.com/Metacinnabar/Metacinnabar/)
+- Device naming scheme
+- SSH keys
