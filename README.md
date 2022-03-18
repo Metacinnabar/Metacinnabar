@@ -39,7 +39,8 @@ Metacinnabar#1733
 
 ## You can also find more information...
 ### [...in my Discord server!](https://discord.metacinna.bar)
-- Discussion channels for my creations
+- Channels to discuss my creations
 ### [...in my personal GitHub repository!](https://github.com/Metacinnabar/Metacinnabar/)
 - Device naming scheme
 - SSH keys
+- Profile pictures and banners
