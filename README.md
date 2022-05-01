@@ -29,6 +29,9 @@ Metacinnabar#1733
 
 @metacinnabar:matrix.org
   (~16h) 7am-11pm AEDT weekdays, weekends
+
+me@metacinna.bar
+  (~16h) 7am-11pm AEDT weekdays, weekends
 ```
 
 ## 📈 Here's some random GitHub stats...
