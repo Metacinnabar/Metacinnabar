@@ -24,13 +24,9 @@
 ## 💬 You can contact me here
 ```
 Metacinnabar#1733
-  (~8h)  3pm-11pm AEDT weekdays
-  (~16h) 7am-11pm AEDT weekends
+  (~16h) 7am-11pm AEDT weekends, weekdays
 
 @metacinnabar:matrix.org
-  (~16h) 7am-11pm AEDT weekdays, weekends
-
-me@metacinna.bar
   (~16h) 7am-11pm AEDT weekdays, weekends
 ```
 
