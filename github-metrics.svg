@@ -32,13 +32,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Metacinnabar/VanityMusic</span>
+                            <span class="diff-handle">Metacinnabar/OptimizedCursor</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Metacinnabar/FallingMud</span>
+                            <span class="diff-handle">Metacinnabar/SaveButton</span>
                         </div>
                     </section>
                     <section>
@@ -48,7 +48,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +715</span> <span class="deleted">   -347</span></div>
+                            <div class="diff-stats"><span class="added"> +2.14k</span> <span class="deleted">   -768</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -57,7 +57,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +713</span> <span class="deleted">   -341</span></div>
+                            <div class="diff-stats"><span class="added">   +742</span> <span class="deleted">   -356</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -114,37 +114,29 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,15.923076923076916)">
+                            <g class="tick" opacity="1" transform="translate(0,30.387755102040813)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,57.61538461538461)">
+                            <g class="tick" opacity="1" transform="translate(0,85.6938775510204)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">40</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,99.3076923076923)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">500</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,182.69230769230768)">
+                            <g class="tick" opacity="1" transform="translate(0,196.3061224489796)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−500</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,224.3846153846154)">
+                            <g class="tick" opacity="1" transform="translate(0,251.6122448979592)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−40</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,266.0769230769231)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−60</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L65.8,140.5L128.33333333333334,140.5L235.53333333333333,140.5L441,140.5L441,5L235.53333333333333,107.14615384615384L128.33333333333334,132.16153846153847L65.8,67.53846153846152L39,127.9923076923077Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L65.8,140.5L128.33333333333334,140.5L235.53333333333333,140.5L441,140.5L441,221.8L235.53333333333333,165.51538461538462L128.33333333333334,142.58461538461538L65.8,188.44615384615386L39,155.09230769230768Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L65.8,140.5L128.33333333333334,140.5L235.53333333333333,140.5L423.1333333333334,140.5L441,140.5L441,5L423.1333333333334,32.54244897959184L235.53333333333333,138.73020408163268L128.33333333333334,140.05755102040814L65.8,136.62857142857146L39,139.83632653061224Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L65.8,140.5L128.33333333333334,140.5L235.53333333333333,140.5L423.1333333333334,140.5L441,140.5L441,229.43224489795915L423.1333333333334,140.83183673469387L235.53333333333333,141.82734693877555L128.33333333333334,140.61061224489794L65.8,143.04408163265308L39,141.27428571428572Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -161,13 +153,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~1 coding hours recorded
+                            ~2 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on MyJobDebug
+                            Working on BudgetMonitor
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -202,9 +194,19 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">BudgetMonitor</span>
+                                <div class="bar" style="width: 74.55199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">93%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 4.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">MyJobDebug</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 1.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -213,8 +215,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 78.48%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">98%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">XML</span>
+                                <div class="bar" style="width: 1.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
